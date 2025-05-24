@@ -65,7 +65,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>   
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspThaís Lemos<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/ThaisdosSantos">
